@@ -1,0 +1,42 @@
+h1,p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+#primeiro{
+    color: rgb(0, 255, 0);
+}
+#segundo{
+    color: blue;
+}
+#lambo{
+    color: black;
+}
+#lambo2{
+    color: rgb(255, 81, 0);
+}
+#purosangue{
+    color: rgb(0, 0, 0);
+}
+#purosangue2{
+    color: rgb(255, 81, 0);
+}
+#bm{
+    color: rgb(0, 0, 0);
+}
+#bm2{
+    color: rgb(255, 81, 0);
+}
+#quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(0, 0, 255);
+} 
+#quadrado2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}  
+.quadrados{
+    width: 1000px;
+    height: 100px;
+}
